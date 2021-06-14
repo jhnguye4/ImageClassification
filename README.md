@@ -1,1 +1,1 @@
-# CatDogImageClassification
+#ImageClassification
